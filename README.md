@@ -4,7 +4,7 @@
 - 😎 My name is Ashutosh Kumar
 <!--- 🔬 Incoming lecturer (tenure track) at Mahidol University, Thailand, see our [lab website](https://biodatlab.vercel.app/)
 -->
-- 🔭 PhD  research scholar in computer science and Engineering at National Institute of Technology Raipur [NITR website](http://www.nitrr.ac.in/)
+- 🔭 PhD  research scholar in Department of Computer Science and Engineering at National Institute of Technology Raipur [NITR website](http://www.nitrr.ac.in/)
 - 🌓 Research interests: Natural Language Processing, Applied ML, DL and NLP
 - 💬 Open source contributor, writing blog posts at [ashutoshkumar.github.io](http://ashutoshkumar.github.io/), [Stack Overflow](https://stackoverflow.com/users/6216778/ashutosh-kumar) contributor
 - :india: India / 🌦 Previous cities: Jaipur, New Delhi, Gwalior
