@@ -7,7 +7,7 @@
 - 🔭 PhD  research scholar at computer science and Engineering in National Institute of Technology Raipur [NITR website](http://www.nitrr.ac.in/)
 - 🌓 Research interests: Metascience, Science of Science, Natural Language Processing, Applied ML and NLP
 - 💬 Open source contributor, writing blog posts at [ashutoshkumar.github.io](http://ashutoshkumar.github.io/), [Stack Overflow](https://stackoverflow.com/users/6216778/ashutosh-kumar) contributor
-- 🇹🇭 Bangkok / 🌦 Previous cities: Philadelphia, Seattle, Chicago
+- :india: India / 🌦 Previous cities: Jaipur, New Delhi, Gwalior
 
 **Languages and Tools:**  
 
