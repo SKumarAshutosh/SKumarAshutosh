@@ -36,3 +36,20 @@
 
 [comment]: <> ([![spotify-github-profile]&#40;https://spotify-github-profile.vercel.app/api/view?uid=12126213435&cover_image=true&theme=novatorem&#41;]&#40;https://github.com/kittinan/spotify-github-profile&#41; <br>)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31v4d3laz5ulffy3zcwt2c5ju5ti&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31v4d3laz5ulffy3zcwt2c5ju5ti&redirect=true)
+
+### :zap: Github Stats
+<p>
+    <a href="https://gitstats.me/SKumarAshutosh" target="_blank"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=SKumarAshutosh&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
+    </a>
+</p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadbhogayata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
+
+
+
+<!--[website]: -->
+[linkedin]: https://www.linkedin.com/in/ashutosh-kumar-b7117a75/
