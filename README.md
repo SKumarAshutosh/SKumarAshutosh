@@ -34,4 +34,5 @@
 ### I love to listen:
 <img src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif" width="50"> **Listening on <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/image-gallery-spotify-logo-21.png" width="24">**
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12126213435&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) <br>
+[comment]: <> ([![spotify-github-profile]&#40;https://spotify-github-profile.vercel.app/api/view?uid=12126213435&cover_image=true&theme=novatorem&#41;]&#40;https://github.com/kittinan/spotify-github-profile&#41; <br>)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31v4d3laz5ulffy3zcwt2c5ju5ti&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
