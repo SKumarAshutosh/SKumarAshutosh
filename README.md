@@ -1,4 +1,4 @@
-# Hi there, I'm Ashutosh Kumar <!--[codeSTACKr][youtube]-->👋 
+# Hi there, I'm Ashutosh <!--[codeSTACKr][youtube]-->👋 
 
 
 - 😎 My name is Ashutosh Kumar
@@ -6,11 +6,11 @@
 -->
 - 🔭 PhD  research scholar in Department of Computer Science and Engineering at National Institute of Technology Raipur [NITR website](http://www.nitrr.ac.in/)
 - 🌓 Research interests: Natural Language Processing, Applied ML, and DL 
-- 💬 Open source contributor, writing blog posts at [ashutoshkumar.github.io](http://ashutoshkumar.github.io/), [Stack Overflow](https://stackoverflow.com/users/6216778/ashutosh-kumar) contributor
+- 💬 Open source contributor, writing blog posts at [skumarashutosh.github.io](https://skumarashutosh.github.io/), [Stack Overflow](https://stackoverflow.com/users/6216778/ashutosh-kumar) contributor
 - :india: India / 🌦 Previous cities: Jaipur, New Delhi, Gwalior
 
 
-- 🎯 Portfolio website: [Portfolio](https://varadbhogayata.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://skumarashutosh.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
